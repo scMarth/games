@@ -1,0 +1,22 @@
+2-5-24_allCards.json is from 
+https://documenter.getpostman.com/view/14059948/TzecB4fH#5d82e651-26d7-4c58-8b9a-f021f5cc1dfd
+
+    api call: https://digimoncard.io/api-public/getAllCards.php?sort=name&series=Digimon Card Game&sortdirection=asc
+
+
+
+
+https://digimoncard.io/api-public/search.php?n=Agumon&desc=Reveal 5 cards&color=red&type=digimon&attribute=Vaccine&card=BT1-010&pack=BT01-03: Release Special Booster Ver.1.0&sort=name&sortdirection=desc&series=Digimon Card Game
+
+https://digimoncard.io/api-public/search.php?color=purple&type=digimon&sort=name&sortdirection=desc&series=Digimon Card Game
+
+
+
+
+
+
+https://www.tcgplayer.com/product/531459/digimon-card-game-animal-colosseum-cerberusmon-x-antibody?xid=pie34c59da-804a-41b0-a2c5-38ef92f79aa0&Language=English&page=1
+
+Cerberusmon (X Antibody) EX5-061 R has:
+    Inherited Effect:[When Attacking] [Once Per Turn] By deleting 1 of your other Digimon, unsuspend this Digimon.
+

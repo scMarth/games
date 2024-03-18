@@ -1,0 +1,1691 @@
+name : Zanbamon
+cardnumber : BT5-080
+soureeffect : None
+
+
+name : Youkomon
+cardnumber : ST6-07
+soureeffect : None
+
+
+name : Wormmon
+cardnumber : EX3-055
+soureeffect : [All Turns] While you have a red Digimon in play, this Digimon gains ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Wizardmon (X Antibody)
+cardnumber : BT12-078
+soureeffect : [When Attacking] [Once Per Turn] Trash the top 2 cards of your deck.
+
+
+name : Wizardmon
+cardnumber : BT2-071
+soureeffect : None
+
+
+name : Wizardmon
+cardnumber : EX1-057
+soureeffect : [Your Turn] All of your Digimon with ＜Retaliation＞ gain ＜Rush＞ (This Digimon can attack the turn it comes into play).
+
+
+name : Wizardmon
+cardnumber : P-046
+soureeffect : [Your Turn] [Once Per Turn] When you use an option card, gain 1 memory.
+
+
+name : Wizardmon
+cardnumber : P-077
+soureeffect : [When Attacking] You may reveal 1 purple card from your hand and place it on top of your deck.
+
+
+name : Wizardmon
+cardnumber : ST10-10
+soureeffect : None
+
+
+name : Witchmon
+cardnumber : EX6-048
+soureeffect : [Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by deleting 1 of your other Digimon, end the attack.
+
+
+name : Witchmon
+cardnumber : ST10-09
+soureeffect : None
+
+
+name : Witchmon
+cardnumber : ST14-06
+soureeffect : [Your Turn] While this Digimon has [Wizard]/[Demon Lord], it gets +2000 DP.
+
+
+name : Wisemon
+cardnumber : BT12-080
+soureeffect : ＜Blocker＞ (At blocker timing, by suspending this Digimon, it becomes the attack target).
+
+
+name : WereGarurumon
+cardnumber : BT2-078
+soureeffect : [When Attacking] [Once Per Turn] You may delete 1 of your other Digimon to unsuspend this Digimon.
+
+
+name : WereGarurumon
+cardnumber : ST16-11
+soureeffect : [When Attacking] [Once Per Turn] By trashing 1 card from your hand, delete 1 of your opponent's level 4 or lower Digimon.
+
+
+name : WereGarurumon
+cardnumber : ST6-11
+soureeffect : [Your Turn] While there are 5 or more cards in your trash, this Digimon gets +2000 DP.
+
+
+name : Wendigomon
+cardnumber : BT7-070
+soureeffect : [Your Turn] [Once Per Turn] When you play a Tamer, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Wendigomon
+cardnumber : EX4-054
+soureeffect : [End of Attack] [Once Per Turn] If you have another suspended Digimon, return 1 green Digimon card from your trash to your hand.
+
+
+name : WaruSeadramon
+cardnumber : BT11-085
+soureeffect : [All Turns] [Once Per Turn] When you play a Digimon by an effect, gain 1 memory.
+
+
+name : WaruSeadramon
+cardnumber : BT15-078
+soureeffect : ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would).
+
+
+name : WarGrowlmon
+cardnumber : EX3-062
+soureeffect : None
+
+
+name : Vilemon
+cardnumber : BT15-072
+soureeffect : None
+
+
+name : Vilemon
+cardnumber : BT2-072
+soureeffect : None
+
+
+name : VenomMyotismon
+cardnumber : BT15-080
+soureeffect : None
+
+
+name : VenomMyotismon
+cardnumber : BT2-079
+soureeffect : None
+
+
+name : VenomMyotismon
+cardnumber : EX1-063
+soureeffect : None
+
+
+name : VenomMyotismon
+cardnumber : P-020
+soureeffect : None
+
+
+name : VenomMyotismon
+cardnumber : ST6-12
+soureeffect : None
+
+
+name : Vajramon
+cardnumber : BT5-077
+soureeffect : None
+
+
+name : Tuwarmon
+cardnumber : BT11-082
+soureeffect : [Opponent's Turn] When an effect trashes this card from digivolution cards, gain 1 memory.
+
+
+name : Tsukaimon
+cardnumber : BT3-079
+soureeffect : [On Deletion] Gain 1 memory.
+
+
+name : Tsukaimon
+cardnumber : EX6-045
+soureeffect : [Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by deleting 1 of your other Digimon, end that attack.
+
+
+name : Tsukaimon
+cardnumber : ST10-08
+soureeffect : None
+
+
+name : Troopmon
+cardnumber : BT10-076
+soureeffect : [Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.
+
+
+name : Troopmon
+cardnumber : BT5-074
+soureeffect : None
+
+
+name : Titamon
+cardnumber : BT6-081
+soureeffect : None
+
+
+name : Tapirmon
+cardnumber : BT2-070
+soureeffect : None
+
+
+name : Tapirmon
+cardnumber : EX1-055
+soureeffect : [Your Turn] [Once Per Turn] When one of your other Digimon is deleted, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Tapirmon
+cardnumber : ST16-04
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Tactimon
+cardnumber : BT10-084
+soureeffect : None
+
+
+name : Tactimon
+cardnumber : BT5-082
+soureeffect : None
+
+
+name : Syakomon
+cardnumber : EX5-056
+soureeffect : [All Turns] [Once Per Turn] When an effect plays an opponent's Digimon, gain 1 memory.
+
+
+name : Soundbirdmon
+cardnumber : BT10-072
+soureeffect : [Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.
+
+
+name : Soundbirdmon
+cardnumber : BT4-078
+soureeffect : None
+
+
+name : Soulmon
+cardnumber : BT11-078
+soureeffect : None
+
+
+name : Soulmon
+cardnumber : BT8-074
+soureeffect : [Your Turn] [Once Per Turn] When a card is trashed from your deck, gain 1 memory.
+
+
+name : Soloogarmon
+cardnumber : BT14-079
+soureeffect : [Your Turn] [Once Per Turn] When you play a card with the [Dark Animal]/[SoC]&#160;trait, you may unsuspend this Digimon.
+
+
+name : Soloogarmon
+cardnumber : BT16-076
+soureeffect : [End of Attack] [Once Per Turn] If your opponent has 1 or more memory, unsuspend this Digimon.
+
+
+name : SkullSatamon
+cardnumber : BT14-077
+soureeffect : None
+
+
+name : SkullSatamon
+cardnumber : BT8-079
+soureeffect : [Your Turn] [Once Per Turn] When a card is trashed from your deck, gain 1 memory.
+
+
+name : SkullSatamon
+cardnumber : ST6-10
+soureeffect : None
+
+
+name : SkullMeramon
+cardnumber : BT3-085
+soureeffect : None
+
+
+name : SkullMammothmon
+cardnumber : ST16-13
+soureeffect : None
+
+
+name : SkullKnightmon
+cardnumber : P-115
+soureeffect : [Your Turn] While this Digimon has the [Bagra Army]/[Twilight]&#160;trait and is level 5 or higher, this Digimon gets ＜Security Attack +1＞ (This Digimon checks 1 additional security card).
+
+
+name : SkullGreymon
+cardnumber : BT14-076
+soureeffect : None
+
+
+name : SkullGreymon
+cardnumber : BT6-078
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : SkullGreymon
+cardnumber : EX1-062
+soureeffect : None
+
+
+name : SkullGreymon
+cardnumber : P-102
+soureeffect : [On Deletion] You may play 1 red or purple level 3 Digimon card from your trash without paying the cost.
+
+
+name : SkullBaluchimon
+cardnumber : BT10-080
+soureeffect : None
+
+
+name : Shroudmon
+cardnumber : BT16-080
+soureeffect : None
+
+
+name : ShineGreymon: Ruin Mode
+cardnumber : EX4-074
+soureeffect : None
+
+
+name : Shamanmon
+cardnumber : BT3-078
+soureeffect : None
+
+
+name : Shadramon
+cardnumber : EX3-058
+soureeffect : [End of Your Turn] This Digimon and one of your other Digimon may DNA digivolve into a Digimon card in your hand for the cost.
+
+
+name : Sethmon
+cardnumber : BT16-070
+soureeffect : None
+
+
+name : Sangloupmon
+cardnumber : BT9-073
+soureeffect : [When Attacking] This Digimon may digivolve into a Digimon card with the [Undead]/[Dark Animal]&#160;trait from your trash for its digivolution cards.
+
+
+name : Sandiramon
+cardnumber : BT10-079
+soureeffect : None
+
+
+name : Salamon
+cardnumber : BT9-072
+soureeffect : None
+
+
+name : Saberdramon
+cardnumber : BT3-080
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Rhihimon
+cardnumber : BT7-075
+soureeffect : None
+
+
+name : Regulusmon
+cardnumber : LM-017
+soureeffect : Ace Overflow ＜-3＞ (As this card moves from the battle area or under a card to another area, lose 3 memory).
+
+
+name : Regulusmon
+cardnumber : RB1-030
+soureeffect : [All Turns] This Digimon gains all effects of cards with [Gammamon]&#160;in their names in this Digimon's digivolution cards.
+
+
+name : Rebellimon
+cardnumber : BT6-077
+soureeffect : None
+
+
+name : Ravemon: Burst Mode
+cardnumber : BT13-092
+soureeffect : None
+
+
+name : Ravemon
+cardnumber : BT13-089
+soureeffect : None
+
+
+name : Ravemon
+cardnumber : EX4-058
+soureeffect : None
+
+
+name : Rasenmon Fury Mode
+cardnumber : BT8-081
+soureeffect : [Your Turn] When this card is trashed as a digivolution card by the effect of [Rasenmon], unsuspend 1 of your Digimon and it gets +3000 DP for the turn.
+
+
+name : Raremon
+cardnumber : BT3-084
+soureeffect : None
+
+
+name : Raguelmon
+cardnumber : BT9-080
+soureeffect : None
+
+
+name : Quetzalmon
+cardnumber : BT10-074
+soureeffect : None
+
+
+name : Pumpkinmon
+cardnumber : BT2-076
+soureeffect : [On Deletion] ＜Draw 2＞ . (Draw 2 cards from your deck.) Then trash 1 card from your hand.
+
+
+name : Pumpkinmon
+cardnumber : ST16-09
+soureeffect : None
+
+
+name : Psychemon
+cardnumber : BT12-075
+soureeffect : [When Attacking] [Once Per Turn] If this Digimon has ＜Save＞ &#160;in its text, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Psychemon
+cardnumber : BT8-071
+soureeffect : None
+
+
+name : ProtoGizmon
+cardnumber : BT13-080
+soureeffect : None
+
+
+name : Porcupamon
+cardnumber : BT13-081
+soureeffect : [End of Opponent's Turn] [Once Per Turn] ＜Draw 1＞ (Draw 1 card from your deck) Then, trash 1 card from your hand.
+
+
+name : Porcupamon
+cardnumber : ST14-05
+soureeffect : None
+
+
+name : Plutomon
+cardnumber : BT4-089
+soureeffect : None
+
+
+name : Pillomon
+cardnumber : BT5-073
+soureeffect : None
+
+
+name : Piedmon
+cardnumber : BT15-079
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Piedmon
+cardnumber : BT2-080
+soureeffect : None
+
+
+name : Piedmon
+cardnumber : EX1-064
+soureeffect : None
+
+
+name : Phascomon
+cardnumber : BT13-078
+soureeffect : [End of Opponent's Turn] [Once Per Turn] ＜Draw 1＞ (Draw 1 card from your deck) Then, trash 1 card from your hand.
+
+
+name : Phascomon
+cardnumber : ST14-04
+soureeffect : None
+
+
+name : Pharaohmon
+cardnumber : BT16-078
+soureeffect : None
+
+
+name : Phantomon
+cardnumber : BT4-085
+soureeffect : None
+
+
+name : Peckmon
+cardnumber : BT13-082
+soureeffect : [On Deletion] If not deleted in battle, your opponent trashes 1 card in their hand.
+
+
+name : Peckmon
+cardnumber : EX4-055
+soureeffect : [On Deletion] If not deleted by battle, your opponent trashes 1 card in their hand.
+
+
+name : Orochimon
+cardnumber : BT7-076
+soureeffect : [When Attacking] [Once Per Turn] You may trash 1 card in your hand to gain 1 memory.
+
+
+name : Ornismon
+cardnumber : BT6-080
+soureeffect : None
+
+
+name : Ordinemon
+cardnumber : BT9-082
+soureeffect : None
+
+
+name : Ophanimon Falldown Mode
+cardnumber : BT8-082
+soureeffect : None
+
+
+name : Ogudomon
+cardnumber : EX6-073
+soureeffect : None
+
+
+name : Ogremon
+cardnumber : BT14-073
+soureeffect : [Your Turn] [Once Per Turn] When one of your effects trashes a card in your hand, gain 1 memory.
+
+
+name : Ogremon
+cardnumber : BT6-072
+soureeffect : None
+
+
+name : Ogremon
+cardnumber : EX1-059
+soureeffect : [When Attacking] You may trash 1 card in your hand to have this Digimon get +2000 DP for the turn.
+
+
+name : Octomon
+cardnumber : EX5-058
+soureeffect : [All Turns] [Once Per Turn] When an effect plays an opponent's Digimon, gain 1 memory.
+
+
+name : Nidhoggmon
+cardnumber : BT7-077
+soureeffect : None
+
+
+name : NeoDevimon
+cardnumber : BT4-084
+soureeffect : [Opponent's Turn] When an opponent's Tamer becomes suspended, gain 1 memory.
+
+
+name : NeoDevimon
+cardnumber : EX6-051
+soureeffect : [When Attacking] [Once Per Turn] Your opponent may trash 1 card in their hand. If they don't, you may play 1 level 3 purple Digimon card from your trash without paying the cost.
+
+
+name : Myotismon
+cardnumber : BT15-076
+soureeffect : Ace Overflow ＜-3＞ (As this card moves from the battle area or under a card to another area, lose 3 memory.).
+
+
+name : Myotismon
+cardnumber : BT2-075
+soureeffect : None
+
+
+name : Myotismon
+cardnumber : BT8-080
+soureeffect : [On Deletion] If this Digimon has [Myotismon]&#160;in its name, you may play 1 [Yukio Oikawa] from your hand or trash suspended without paying its memory cost.
+
+
+name : Myotismon
+cardnumber : EX1-061
+soureeffect : [Your Turn] While this Digimon has [Myotismon]&#160;in its name, all your Digimon with ＜Retaliation＞ can attack your opponent's unsuspended level 4 or lower Digimon.
+
+
+name : Myotismon
+cardnumber : P-019
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Musyamon
+cardnumber : BT5-075
+soureeffect : None
+
+
+name : Mushroomon
+cardnumber : BT8-073
+soureeffect : None
+
+
+name : Murmukusmon
+cardnumber : BT6-079
+soureeffect : None
+
+
+name : Mummymon
+cardnumber : BT16-073
+soureeffect : None
+
+
+name : Mummymon
+cardnumber : BT3-087
+soureeffect : None
+
+
+name : Minervamon
+cardnumber : BT10-083
+soureeffect : None
+
+
+name : MetalGarurumon
+cardnumber : BT2-081
+soureeffect : None
+
+
+name : MetalGarurumon
+cardnumber : P-027
+soureeffect : None
+
+
+name : MetalGarurumon
+cardnumber : ST16-12
+soureeffect : Ace Overflow ＜-4＞ (As this card moves from the battle area or under a card to another area, lose 4 memory).
+
+
+name : Mervamon
+cardnumber : BT11-086
+soureeffect : None
+
+
+name : Meramon
+cardnumber : BT3-083
+soureeffect : None
+
+
+name : Meramon
+cardnumber : ST16-07
+soureeffect : None
+
+
+name : Mephistomon
+cardnumber : EX2-042
+soureeffect : [When Attacking] [Once Per Turn] You may trash 1 card from your hand to gain 1 memory.
+
+
+name : Meicoomon
+cardnumber : BT9-074
+soureeffect : [On Deletion] When this Digimon had 2 or more colors, gain 2 memory.
+
+
+name : Megidramon
+cardnumber : BT5-083
+soureeffect : None
+
+
+name : Megidramon
+cardnumber : EX3-064
+soureeffect : None
+
+
+name : Maycrackmon: Vicious Mode
+cardnumber : BT9-076
+soureeffect : [On Deletion] When this Digimon had 2 or more colurs, gain 2 memory.
+
+
+name : Matadormon
+cardnumber : BT9-077
+soureeffect : None
+
+
+name : Mastemon
+cardnumber : BT3-090
+soureeffect : None
+
+
+name : Mammothmon
+cardnumber : ST16-10
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : MaloMyotismon
+cardnumber : BT16-081
+soureeffect : None
+
+
+name : MaloMyotismon
+cardnumber : BT3-092
+soureeffect : None
+
+
+name : MaloMyotismon
+cardnumber : BT8-083
+soureeffect : None
+
+
+name : MadLeomon: Armed Mode
+cardnumber : BT11-081
+soureeffect : [Opponent's Turn] When an effect trashes this card from digivolution cards, gain 1 memory.
+
+
+name : MadLeomon
+cardnumber : BT10-077
+soureeffect : [Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.
+
+
+name : MadLeomon
+cardnumber : BT16-071
+soureeffect : [End of Attack] By deleting this Digimon, you may play 1 level 4 or lower Digimon card from your trash without paying the cost.
+
+
+name : Lucemon: Chaos Mode
+cardnumber : BT7-111
+soureeffect : None
+
+
+name : Lucemon: Chaos Mode
+cardnumber : EX6-054
+soureeffect : None
+
+
+name : Loweemon
+cardnumber : BT7-071
+soureeffect : None
+
+
+name : LordKnightmon
+cardnumber : BT13-090
+soureeffect : None
+
+
+name : Lopmon (X Antibody)
+cardnumber : BT16-067
+soureeffect : [Your Turn] [Once Per Turn] When an effect plays one of your Digimon, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Lopmon
+cardnumber : BT7-068
+soureeffect : [Your Turn] [Once Per Turn] When you play a Tamer, gain 1 memory.
+
+
+name : Loogarmon
+cardnumber : BT14-074
+soureeffect : [Your Turn] [Once Per Turn] When your card with the [Dark Animal]/[SoC]&#160;trait is played, gain 1 memory.
+
+
+name : Loogarmon
+cardnumber : BT15-075
+soureeffect : [End of Attack] [Once Per Turn] If your opponent has 1 or more memory, gain 1 memory.
+
+
+name : Loogamon
+cardnumber : BT14-071
+soureeffect : [Your Turn] [Once Per Turn] When you play a card with the [Dark Animal]/[SoC]&#160;trait, gain 1 memory.
+
+
+name : Loogamon
+cardnumber : BT15-071
+soureeffect : [End of Attack] [Once Per Turn] If your opponent has 1 or more memory, gain 1 memory.
+
+
+name : Lilithmon
+cardnumber : BT11-087
+soureeffect : None
+
+
+name : Lilithmon
+cardnumber : BT3-091
+soureeffect : None
+
+
+name : Lilithmon
+cardnumber : EX6-057
+soureeffect : None
+
+
+name : Leviamon (X Antibody)
+cardnumber : BT15-081
+soureeffect : None
+
+
+name : Leviamon
+cardnumber : EX5-063
+soureeffect : None
+
+
+name : Leviamon
+cardnumber : EX6-061
+soureeffect : None
+
+
+name : LadyDevimon
+cardnumber : BT11-083
+soureeffect : [Opponent's Turn] While you have a yellow Digimon in play, all of your Digimon with the [Angel]/[Archangel]/[Fallen Angel]&#160;trait gain ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : LadyDevimon
+cardnumber : BT15-077
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : LadyDevimon
+cardnumber : BT3-088
+soureeffect : [Your Turn] [Once Per Turn] When you use an Option card, delete 1 of your opponent's level 3 Digimon.
+
+
+name : LadyDevimon
+cardnumber : EX1-060
+soureeffect : [Your Turn] [Once Per Turn] When you play a Digimon from your trash, gain 1 memory.
+
+
+name : LadyDevimon
+cardnumber : EX6-053
+soureeffect : [All Turns] While this Digimon has the [Angel]/[Seven Great Demon Lords]&#160;trait trait, it gains ＜Scapegoat＞ (When this Digimon would be deleted other than by your effects, by deleting 1 of your other Digimon, prevent that deletion).
+
+
+name : LadyDevimon
+cardnumber : ST10-12
+soureeffect : [Your Turn] All of your yellow Digimon gain ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Labramon
+cardnumber : BT4-079
+soureeffect : None
+
+
+name : Labramon
+cardnumber : EX5-057
+soureeffect : [Your Turn] [Once Per Turn] When an effect plays one of your Digimon, gain 1 memory.
+
+
+name : Labramon
+cardnumber : P-080
+soureeffect : None
+
+
+name : Kyukimon
+cardnumber : ST6-09
+soureeffect : None
+
+
+name : Kogamon
+cardnumber : BT8-075
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Kinkakumon
+cardnumber : BT6-071
+soureeffect : [When Attacking] You may trash 1 card in your hand to delete 1 of your opponent's level 3 Digimon.
+
+
+name : Kimeramon
+cardnumber : BT2-077
+soureeffect : None
+
+
+name : Karatenmon
+cardnumber : BT8-078
+soureeffect : None
+
+
+name : KaiserLeomon
+cardnumber : BT7-073
+soureeffect : None
+
+
+name : Junomon
+cardnumber : ST10-13
+soureeffect : None
+
+
+name : Jokermon
+cardnumber : BT12-079
+soureeffect : None
+
+
+name : Jokermon
+cardnumber : BT5-078
+soureeffect : None
+
+
+name : JetMervamon
+cardnumber : BT12-084
+soureeffect : None
+
+
+name : Impmon (X Antibody)
+cardnumber : BT12-073
+soureeffect : [When Attacking] [Once Per Turn] Trash the top 2 cards of your deck.
+
+
+name : Impmon
+cardnumber : BT2-068
+soureeffect : None
+
+
+name : Impmon
+cardnumber : BT6-068
+soureeffect : None
+
+
+name : Impmon
+cardnumber : EX2-039
+soureeffect : [Your Turn] If this Digimon has [Beelzemon]&#160;in its name, it gets +3000 DP.
+
+
+name : Impmon
+cardnumber : P-071
+soureeffect : None
+
+
+name : Impmon
+cardnumber : ST14-02
+soureeffect : [Your Turn] [Once Per Turn] When a card is trashed from your deck, delete 1 of your opponent's level 3 Digimon.
+
+
+name : Imperialdramon: Fighter Mode
+cardnumber : EX3-073
+soureeffect : None
+
+
+name : Imperialdramon: Dragon Mode
+cardnumber : EX3-063
+soureeffect : None
+
+
+name : Ignitemon
+cardnumber : BT11-076
+soureeffect : [All Turns] [Once Per Turn] When you play a Digimon by an effect, gain 1 memory.
+
+
+name : Helloogarmon
+cardnumber : BT14-078
+soureeffect : None
+
+
+name : Gyuukimon
+cardnumber : LM-018
+soureeffect : None
+
+
+name : Gumdramon
+cardnumber : BT12-074
+soureeffect : [When Attacking] [Once Per Turn] If this Digimon has ＜Save＞ &#160;in its text, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : GulusGammamon
+cardnumber : BT10-078
+soureeffect : None
+
+
+name : GulusGammamon
+cardnumber : RB1-029
+soureeffect : None
+
+
+name : Gulfmon
+cardnumber : EX2-043
+soureeffect : None
+
+
+name : Guilmon
+cardnumber : BT5-071
+soureeffect : None
+
+
+name : Guilmon
+cardnumber : EX3-056
+soureeffect : None
+
+
+name : Growlmon
+cardnumber : EX3-057
+soureeffect : [When Attacking] [Once Per Turn] By deleting 1 of your other Digimon, this Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn.
+
+
+name : GranDracmon
+cardnumber : BT9-079
+soureeffect : None
+
+
+name : Gotsumon
+cardnumber : ST16-05
+soureeffect : None
+
+
+name : Goblimon
+cardnumber : BT14-070
+soureeffect : [Your Turn] [Once Per Turn] When one of your effects trashes a card in your hand, gain 1 memory.
+
+
+name : Goblimon
+cardnumber : BT6-069
+soureeffect : [Your Turn] [Once Per Turn] When you trash a card in your hand using one of your effects, this Digimon gets +2000 DP for the turn.
+
+
+name : Gizmon: XT
+cardnumber : BT13-086
+soureeffect : None
+
+
+name : Gizmon: AT
+cardnumber : BT13-083
+soureeffect : None
+
+
+name : Gizamon
+cardnumber : BT15-068
+soureeffect : [All Turns] [Once Per Turn] When an effect plays an opponent's Digimon, gain 1 memory.
+
+
+name : Ginkakumon Promote
+cardnumber : BT6-075
+soureeffect : None
+
+
+name : Ginkakumon
+cardnumber : BT6-073
+soureeffect : [Your Turn] [Once Per Turn] When you trash a card in your hand using one of your effects, gain 1 memory.
+
+
+name : Ghoulmon
+cardnumber : BT14-080
+soureeffect : None
+
+
+name : Ghostmon
+cardnumber : BT4-077
+soureeffect : [Your Turn] When this card is trashed due to activating this Digimon's ＜Digi-Burst＞ , return this card to its owner's hand.
+
+
+name : Ghostmon
+cardnumber : BT7-067
+soureeffect : None
+
+
+name : Ghostmon
+cardnumber : ST10-07
+soureeffect : None
+
+
+name : Gesomon
+cardnumber : BT15-074
+soureeffect : [All Turns] [Once Per Turn] When an effect plays an opponent's Digimon, gain 1 memory.
+
+
+name : Gazimon (X Antibody)
+cardnumber : BT9-070
+soureeffect : None
+
+
+name : Gazimon
+cardnumber : BT10-071
+soureeffect : [All Turns] While there are 10 or more cards in your trash, this Digimon gains ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Gazimon
+cardnumber : BT14-069
+soureeffect : [On Deletion] Gain 1 memory.
+
+
+name : Gazimon
+cardnumber : BT3-077
+soureeffect : None
+
+
+name : Garurumon
+cardnumber : BT2-073
+soureeffect : [Your Turn] [Once Per Turn] When one of your other Digimon is deleted, gain 1 memory.
+
+
+name : Garurumon
+cardnumber : ST16-08
+soureeffect : [When Attacking] [Once Per Turn] ＜Draw 1＞ (Draw 1 card from your deck). Then, trash 1 card from your hand.
+
+
+name : Garurumon
+cardnumber : ST6-06
+soureeffect : [When Attacking] ＜Draw 1＞ (Draw 1 card from your deck). Then, trash 1 card in your hand.
+
+
+name : Gammamon
+cardnumber : LM-016
+soureeffect : [On Deletion] You may play 1 [Hiro Amanokawa] from your hand without paying the cost.
+
+
+name : Gabumon
+cardnumber : BT2-069
+soureeffect : [On Deletion] ＜Draw 2＞ (Draw 2 cards from your deck). Then, trash 1 card from your hand.
+
+
+name : Gabumon
+cardnumber : BT4-076
+soureeffect : None
+
+
+name : Gabumon
+cardnumber : ST16-03
+soureeffect : [When Attacking] [Once Per Turn] ＜Draw 1＞ (Draw 1 card from your deck). Then, trash 1 card from your hand.
+
+
+name : Gabumon
+cardnumber : ST6-03
+soureeffect : [When Attacking] ＜Draw 1＞ (Draw 1 card from your deck). Then, trash 1 card in your hand.
+
+
+name : Feresmon
+cardnumber : BT6-076
+soureeffect : None
+
+
+name : Feresmon
+cardnumber : EX6-050
+soureeffect : [When Attacking] [Once Per Turn] Your opponent may trash 1 card in their hand. If they don't, you may play 1 level 3 purple Digimon card from your trash without paying the cost.
+
+
+name : Fenriloogamon
+cardnumber : BT14-081
+soureeffect : None
+
+
+name : Fangmon
+cardnumber : BT14-072
+soureeffect : None
+
+
+name : Fangmon
+cardnumber : BT8-076
+soureeffect : None
+
+
+name : Falcomon
+cardnumber : BT13-079
+soureeffect : [On Deletion] If not deleted in battle, your opponent trashes 1 card in their hand.
+
+
+name : Falcomon
+cardnumber : EX4-053
+soureeffect : [On Deletion] If not deleted by battle, your opponent trashes 1 card in their hand.
+
+
+name : Fake Agumon Expert
+cardnumber : BT5-072
+soureeffect : None
+
+
+name : Fake Agumon Expert
+cardnumber : EX4-052
+soureeffect : None
+
+
+name : Eyesmon: Scatter Mode
+cardnumber : BT7-069
+soureeffect : None
+
+
+name : Eyesmon
+cardnumber : BT7-072
+soureeffect : None
+
+
+name : ExTyrannomon
+cardnumber : EX3-060
+soureeffect : None
+
+
+name : Elecmon
+cardnumber : BT6-070
+soureeffect : None
+
+
+name : Elecmon
+cardnumber : ST16-02
+soureeffect : None
+
+
+name : Elecmon
+cardnumber : ST6-05
+soureeffect : None
+
+
+name : Dynasmon
+cardnumber : BT13-087
+soureeffect : None
+
+
+name : Dragomon
+cardnumber : EX5-060
+soureeffect : ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would).
+
+
+name : Dracmon
+cardnumber : BT9-071
+soureeffect : [When Attacking] This Digimon may digivolve into a Digimon card with the [Undead]/[Dark Animal]&#160;trait from your trash for its digivolution cost.
+
+
+name : Dracmon
+cardnumber : P-085
+soureeffect : None
+
+
+name : Dracmon
+cardnumber : ST6-04
+soureeffect : None
+
+
+name : DoKunemon
+cardnumber : BT11-075
+soureeffect : None
+
+
+name : Dobermon (X Antibody)
+cardnumber : EX5-059
+soureeffect : [Your Turn] [Once Per Turn] When an effect plays one of your Digimon, gain 1 memory.
+
+
+name : Dobermon
+cardnumber : BT12-076
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Dobermon
+cardnumber : BT16-068
+soureeffect : [Your Turn] [Once Per Turn] When an effect plays one of your Digimon, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Dobermon
+cardnumber : BT4-082
+soureeffect : None
+
+
+name : Dobermon
+cardnumber : EX2-041
+soureeffect : None
+
+
+name : Dinobeemon
+cardnumber : BT16-077
+soureeffect : ＜Partition (purple Lv.4 + red Lv.4)＞ (When this Digimon that has 1 of each specified cards in its digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 of each card without paying their costs).
+
+
+name : Dinobeemon
+cardnumber : EX3-061
+soureeffect : [Your Turn] While this Digimon has [Imperialdramon]&#160;in its name, it can also attack your opponent's unsuspended Digimon.
+
+
+name : DexDoruGreymon
+cardnumber : BT9-078
+soureeffect : None
+
+
+name : DexDorugoramon
+cardnumber : BT9-081
+soureeffect : None
+
+
+name : DexDorugamon
+cardnumber : BT9-075
+soureeffect : None
+
+
+name : Devimon
+cardnumber : BT11-080
+soureeffect : None
+
+
+name : Devimon
+cardnumber : BT14-075
+soureeffect : None
+
+
+name : Devimon
+cardnumber : BT2-074
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Devimon
+cardnumber : BT4-081
+soureeffect : None
+
+
+name : Devimon
+cardnumber : EX1-058
+soureeffect : [On Deletion] Return 1 purple level 4 or lower Digimon card from your trash to your hand.
+
+
+name : Devimon
+cardnumber : EX6-049
+soureeffect : [All Turns] While your opponent has 6 or fewer cards in their hand, this Digimon gets +1000 DP.
+
+
+name : Devimon
+cardnumber : P-018
+soureeffect : None
+
+
+name : Devimon
+cardnumber : ST6-08
+soureeffect : None
+
+
+name : Devidramon
+cardnumber : BT3-081
+soureeffect : [On Deletion] Gain 1 memory.
+
+
+name : Devidramon
+cardnumber : EX2-040
+soureeffect : [When Attacking] You may trash the top 2 cards of your deck.
+
+
+name : DemiDevimon
+cardnumber : BT15-070
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : DemiDevimon
+cardnumber : BT2-067
+soureeffect : None
+
+
+name : DemiDevimon
+cardnumber : BT8-072
+soureeffect : None
+
+
+name : DemiDevimon
+cardnumber : EX1-056
+soureeffect : None
+
+
+name : DemiDevimon
+cardnumber : EX6-046
+soureeffect : [All Turns] While your opponent has 6 or fewer cards in their hand, this Digimon gets +1000 DP.
+
+
+name : DemiDevimon
+cardnumber : P-017
+soureeffect : None
+
+
+name : DemiDevimon
+cardnumber : P-034
+soureeffect : [On Deletion] If you have 7 or more Digimon cards with [Devimon]&#160;in their name in your trash, you may play 1 [DanDevimon] from your trash without paying its memory cost.
+
+
+name : DemiDevimon
+cardnumber : ST6-02
+soureeffect : None
+
+
+name : DeathXmon
+cardnumber : BT9-112
+soureeffect : None
+
+
+name : DarkTyrannomon
+cardnumber : EX3-059
+soureeffect : [On Deletion] Suspend 1 of your opponent's Digimon.
+
+
+name : DarknessBagramon
+cardnumber : BT12-111
+soureeffect : None
+
+
+name : DarkLizardmon
+cardnumber : BT11-079
+soureeffect : None
+
+
+name : DanDevimon
+cardnumber : BT4-088
+soureeffect : None
+
+
+name : DanDevimon
+cardnumber : EX6-055
+soureeffect : None
+
+
+name : Damemon
+cardnumber : BT10-075
+soureeffect : [Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.
+
+
+name : Crowmon
+cardnumber : BT13-085
+soureeffect : [On Deletion] If not deleted in battle, you may play 1 level 4 or lower purple Digimon card from your trash without paying its cost.
+
+
+name : Crowmon
+cardnumber : EX4-056
+soureeffect : [On Deletion] If not deleted by battle, delete 1 of your opponent's level 5 or lower Digimon.
+
+
+name : CresGarurumon
+cardnumber : ST6-13
+soureeffect : None
+
+
+name : Creepymon
+cardnumber : BT8-111
+soureeffect : None
+
+
+name : Creepymon
+cardnumber : EX6-058
+soureeffect : None
+
+
+name : Climbmon
+cardnumber : BT16-074
+soureeffect : [End of Attack] [Once Per Turn] If this Digimon has [Pulsemon]&#160;in its text, by trashing the top card of your security stack, unsuspend this Digimon.
+
+
+name : ChuuChuumon
+cardnumber : BT10-073
+soureeffect : [Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.
+
+
+name : Chikurimon
+cardnumber : BT11-077
+soureeffect : [Opponent's Turn] When an effect trashes this card from digivolution cards, gain 1 memory.
+
+
+name : Cherubimon (X Antibody)
+cardnumber : BT16-079
+soureeffect : None
+
+
+name : Cherubimon
+cardnumber : BT7-079
+soureeffect : None
+
+
+name : Cherubimon
+cardnumber : EX4-059
+soureeffect : None
+
+
+name : ChaosGallantmon
+cardnumber : BT5-081
+soureeffect : None
+
+
+name : Cerberusmon: Werewolf Mode
+cardnumber : BT4-086
+soureeffect : None
+
+
+name : Cerberusmon (X Antibody)
+cardnumber : EX5-061
+soureeffect : [When Attacking] [Once Per Turn] By deleting 1 of your other Digimon, unsuspend this Digimon.
+
+
+name : Cerberusmon
+cardnumber : BT16-075
+soureeffect : [Your Turn] [Once Per Turn] When an effect plays one of your Digimon, 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it comes into play).
+
+
+name : Cerberusmon
+cardnumber : BT4-083
+soureeffect : None
+
+
+name : Candlemon
+cardnumber : BT15-069
+soureeffect : None
+
+
+name : Candlemon
+cardnumber : BT3-076
+soureeffect : None
+
+
+name : Candlemon
+cardnumber : ST14-03
+soureeffect : None
+
+
+name : Boogiemon
+cardnumber : BT6-074
+soureeffect : None
+
+
+name : Boogiemon
+cardnumber : EX6-047
+soureeffect : [All Turns] While your opponent has 6 or fewer cards in their hand, this Digimon gets +1000 DP.
+
+
+name : Boltmon
+cardnumber : BT3-089
+soureeffect : None
+
+
+name : BlueMeramon
+cardnumber : BT11-084
+soureeffect : [All Turns] [Once Per Turn] When you play a Digimon by an effect, gain 1 memory.
+
+
+name : BlackWarGrowlmon
+cardnumber : BT5-079
+soureeffect : [When Attacking] [Once Per Turn] You may delete 1 of your other Digimon to unsuspend this Digimon.
+
+
+name : BlackGrowlmon
+cardnumber : BT5-076
+soureeffect : [Your Turn] [Once Per Turn] When one of your other Digimon is deleted, this Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn.
+
+
+name : BlackGatomon Uver.
+cardnumber : RB1-028
+soureeffect : None
+
+
+name : BlackGatomon
+cardnumber : BT3-082
+soureeffect : None
+
+
+name : BlackGatomon
+cardnumber : BT8-077
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Belphemon: Sleep Mode
+cardnumber : BT13-088
+soureeffect : None
+
+
+name : Belphemon: Rage Mode
+cardnumber : BT13-091
+soureeffect : [End of Opponent's Turn] If this Digimon is [Belphemon: Sleep Mode], trash the top card of this Digimon.
+
+
+name : Belphemon: Rage Mode
+cardnumber : EX6-060
+soureeffect : None
+
+
+name : Beelzemon: Blast Mode
+cardnumber : ST14-10
+soureeffect : None
+
+
+name : Beelzemon Blast Mode
+cardnumber : EX2-074
+soureeffect : None
+
+
+name : Beelzemon (X Antibody)
+cardnumber : BT12-085
+soureeffect : None
+
+
+name : Beelzemon
+cardnumber : BT10-082
+soureeffect : [End of Attack] [Once Per Turn] For every 10 cards in your trash, gain 1 memory.
+
+
+name : Beelzemon
+cardnumber : BT2-111
+soureeffect : None
+
+
+name : Beelzemon
+cardnumber : EX2-044
+soureeffect : None
+
+
+name : Beelzemon
+cardnumber : EX6-056
+soureeffect : None
+
+
+name : Beelzemon
+cardnumber : ST14-08
+soureeffect : None
+
+
+name : BeelStarmon
+cardnumber : BT6-112
+soureeffect : None
+
+
+name : BeelStarmon
+cardnumber : ST14-09
+soureeffect : None
+
+
+name : Bastemon
+cardnumber : EX6-052
+soureeffect : [Opponent's Turn] [Once Per Turn] When an opponent's Digimon is deleted, you may play 1 purple level 4 or lower Digimon card from your trash without paying the cost
+
+
+name : Bastemon
+cardnumber : ST10-11
+soureeffect : None
+
+
+name : Barbamon
+cardnumber : EX6-059
+soureeffect : None
+
+
+name : Bakemon
+cardnumber : BT15-073
+soureeffect : ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling).
+
+
+name : Bakemon
+cardnumber : BT4-080
+soureeffect : None
+
+
+name : Bakemon
+cardnumber : ST16-06
+soureeffect : None
+
+
+name : Bagramon
+cardnumber : BT11-088
+soureeffect : None
+
+
+name : Baalmon (X Antibody)
+cardnumber : BT12-082
+soureeffect : [Your Turn] While this Digimon has the [Wizard]/[Demon Lord]&#160;trait it gets +2000 DP.
+
+
+name : Baalmon
+cardnumber : BT10-081
+soureeffect : None
+
+
+name : Baalmon
+cardnumber : ST14-07
+soureeffect : [Your Turn] While this Digimon has the [Wizard]/[Demon Lord]&#160;trait, it gets +2000 DP.
+
+
+name : Astamon
+cardnumber : BT12-081
+soureeffect : [When Attacking] [Once Per Turn] If this Digimon has ＜Save＞ &#160;in its text, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Astamon
+cardnumber : BT13-084
+soureeffect : [Opponent's Turn] [Once Per Turn] When a card is trashed from your hand, you may play 1 level 4 or lower purple Digimon card from your trash without paying its cost.
+
+
+name : Arukenimon
+cardnumber : BT16-072
+soureeffect : None
+
+
+name : Arukenimon
+cardnumber : BT3-086
+soureeffect : None
+
+
+name : Arresterdramon: Superior Mode
+cardnumber : BT12-083
+soureeffect : [When Attacking] [Once Per Turn] If this Digimon has ＜Save＞ &#160;in its text, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Arresterdramon
+cardnumber : BT12-077
+soureeffect : [When Attacking] [Once Per Turn] If this Digimon has ＜Save＞ &#160;in its text, ＜Draw 1＞ (Draw 1 card from your deck).
+
+
+name : Arcturusmon
+cardnumber : RB1-031
+soureeffect : [Your Turn] [Once Per Turn] When an opponent's Digimon is deleted, if this Digimon has [Gammamon]&#160;in its text, trash the top card of your opponent’s security stack.
+
+
+name : Anubismon
+cardnumber : BT4-087
+soureeffect : None
+
+
+name : Anubismon
+cardnumber : EX5-062
+soureeffect : None
+
+
+name : Antylamon
+cardnumber : BT7-074
+soureeffect : None
+
+
+name : Antylamon
+cardnumber : EX4-057
+soureeffect : [End of Attack] [Once Per Turn] If you have another suspended Digimon, return 1 green Digimon card from your trash to your hand.
+
+
+name : AncientSphinxmon
+cardnumber : BT7-078
+soureeffect : None
+
+
+card count: 338
