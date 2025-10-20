@@ -1,2 +1,2 @@
 # games
-scrapwork
+scrapwork and notes related to games

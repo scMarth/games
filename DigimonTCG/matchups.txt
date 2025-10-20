@@ -1,0 +1,325 @@
+Wargreymon  Shinegreymon
+Wargreymon  Numemon
+Wargreymon  Alter-S
+Wargreymon  Belphemon
+Wargreymon  Leviamon
+Wargreymon  Machinedramon
+Wargreymon  Galactimon
+Wargreymon  Blue Fish
+Wargreymon  Security Control
+Wargreymon  Ruin Mode Turbo
+Wargreymon  Rosemon X
+Wargreymon  Millith Loop
+Wargreymon  Deva
+Wargreymon  Bloomlord
+Wargreymon  Leopardmon
+Wargreymon  Gallantmon
+Wargreymon  Miragegaogamon
+Wargreymon  Magnamon
+Wargreymon  Gargomon
+Wargreymon  Loogamon
+Wargreymon  Red Hybrid
+Wargreymon  Beelzemon
+Wargreymon  Commandramon
+Wargreymon  Imperialdramon
+Wargreymon  Garurumon
+Shinegreymon  Numemon
+Shinegreymon  Alter-S
+Shinegreymon  Belphemon
+Shinegreymon  Leviamon
+Shinegreymon  Machinedramon
+Shinegreymon  Galactimon
+Shinegreymon  Blue Fish
+Shinegreymon  Security Control
+Shinegreymon  Ruin Mode Turbo
+Shinegreymon  Rosemon X
+Shinegreymon  Millith Loop
+Shinegreymon  Deva
+Shinegreymon  Bloomlord
+Shinegreymon  Leopardmon
+Shinegreymon  Gallantmon
+Shinegreymon  Miragegaogamon
+Shinegreymon  Magnamon
+Shinegreymon  Gargomon
+Shinegreymon  Loogamon
+Shinegreymon  Red Hybrid
+Shinegreymon  Beelzemon
+Shinegreymon  Commandramon
+Shinegreymon  Imperialdramon
+Shinegreymon  Garurumon
+Numemon  Alter-S
+Numemon  Belphemon
+Numemon  Leviamon
+Numemon  Machinedramon
+Numemon  Galactimon
+Numemon  Blue Fish
+Numemon  Security Control
+Numemon  Ruin Mode Turbo
+Numemon  Rosemon X
+Numemon  Millith Loop
+Numemon  Deva
+Numemon  Bloomlord
+Numemon  Leopardmon
+Numemon  Gallantmon
+Numemon  Miragegaogamon
+Numemon  Magnamon
+Numemon  Gargomon
+Numemon  Loogamon
+Numemon  Red Hybrid
+Numemon  Beelzemon
+Numemon  Commandramon
+Numemon  Imperialdramon
+Numemon  Garurumon
+Alter-S  Belphemon
+Alter-S  Leviamon
+Alter-S  Machinedramon
+Alter-S  Galactimon
+Alter-S  Blue Fish
+Alter-S  Security Control
+Alter-S  Ruin Mode Turbo
+Alter-S  Rosemon X
+Alter-S  Millith Loop
+Alter-S  Deva
+Alter-S  Bloomlord
+Alter-S  Leopardmon
+Alter-S  Gallantmon
+Alter-S  Miragegaogamon
+Alter-S  Magnamon
+Alter-S  Gargomon
+Alter-S  Loogamon
+Alter-S  Red Hybrid
+Alter-S  Beelzemon
+Alter-S  Commandramon
+Alter-S  Imperialdramon
+Alter-S  Garurumon
+Belphemon  Leviamon
+Belphemon  Machinedramon
+Belphemon  Galactimon
+Belphemon  Blue Fish
+Belphemon  Security Control
+Belphemon  Ruin Mode Turbo
+Belphemon  Rosemon X
+Belphemon  Millith Loop
+Belphemon  Deva
+Belphemon  Bloomlord
+Belphemon  Leopardmon
+Belphemon  Gallantmon
+Belphemon  Miragegaogamon
+Belphemon  Magnamon
+Belphemon  Gargomon
+Belphemon  Loogamon
+Belphemon  Red Hybrid
+Belphemon  Beelzemon
+Belphemon  Commandramon
+Belphemon  Imperialdramon
+Belphemon  Garurumon
+Leviamon  Machinedramon
+Leviamon  Galactimon
+Leviamon  Blue Fish
+Leviamon  Security Control
+Leviamon  Ruin Mode Turbo
+Leviamon  Rosemon X
+Leviamon  Millith Loop
+Leviamon  Deva
+Leviamon  Bloomlord
+Leviamon  Leopardmon
+Leviamon  Gallantmon
+Leviamon  Miragegaogamon
+Leviamon  Magnamon
+Leviamon  Gargomon
+Leviamon  Loogamon
+Leviamon  Red Hybrid
+Leviamon  Beelzemon
+Leviamon  Commandramon
+Leviamon  Imperialdramon
+Leviamon  Garurumon
+Machinedramon  Galactimon
+Machinedramon  Blue Fish
+Machinedramon  Security Control
+Machinedramon  Ruin Mode Turbo
+Machinedramon  Rosemon X
+Machinedramon  Millith Loop
+Machinedramon  Deva
+Machinedramon  Bloomlord
+Machinedramon  Leopardmon
+Machinedramon  Gallantmon
+Machinedramon  Miragegaogamon
+Machinedramon  Magnamon
+Machinedramon  Gargomon
+Machinedramon  Loogamon
+Machinedramon  Red Hybrid
+Machinedramon  Beelzemon
+Machinedramon  Commandramon
+Machinedramon  Imperialdramon
+Machinedramon  Garurumon
+Galactimon  Blue Fish
+Galactimon  Security Control
+Galactimon  Ruin Mode Turbo
+Galactimon  Rosemon X
+Galactimon  Millith Loop
+Galactimon  Deva
+Galactimon  Bloomlord
+Galactimon  Leopardmon
+Galactimon  Gallantmon
+Galactimon  Miragegaogamon
+Galactimon  Magnamon
+Galactimon  Gargomon
+Galactimon  Loogamon
+Galactimon  Red Hybrid
+Galactimon  Beelzemon
+Galactimon  Commandramon
+Galactimon  Imperialdramon
+Galactimon  Garurumon
+Blue Fish  Security Control
+Blue Fish  Ruin Mode Turbo
+Blue Fish  Rosemon X
+Blue Fish  Millith Loop
+Blue Fish  Deva
+Blue Fish  Bloomlord
+Blue Fish  Leopardmon
+Blue Fish  Gallantmon
+Blue Fish  Miragegaogamon
+Blue Fish  Magnamon
+Blue Fish  Gargomon
+Blue Fish  Loogamon
+Blue Fish  Red Hybrid
+Blue Fish  Beelzemon
+Blue Fish  Commandramon
+Blue Fish  Imperialdramon
+Blue Fish  Garurumon
+Security Control  Ruin Mode Turbo
+Security Control  Rosemon X
+Security Control  Millith Loop
+Security Control  Deva
+Security Control  Bloomlord
+Security Control  Leopardmon
+Security Control  Gallantmon
+Security Control  Miragegaogamon
+Security Control  Magnamon
+Security Control  Gargomon
+Security Control  Loogamon
+Security Control  Red Hybrid
+Security Control  Beelzemon
+Security Control  Commandramon
+Security Control  Imperialdramon
+Security Control  Garurumon
+Ruin Mode Turbo  Rosemon X
+Ruin Mode Turbo  Millith Loop
+Ruin Mode Turbo  Deva
+Ruin Mode Turbo  Bloomlord
+Ruin Mode Turbo  Leopardmon
+Ruin Mode Turbo  Gallantmon
+Ruin Mode Turbo  Miragegaogamon
+Ruin Mode Turbo  Magnamon
+Ruin Mode Turbo  Gargomon
+Ruin Mode Turbo  Loogamon
+Ruin Mode Turbo  Red Hybrid
+Ruin Mode Turbo  Beelzemon
+Ruin Mode Turbo  Commandramon
+Ruin Mode Turbo  Imperialdramon
+Ruin Mode Turbo  Garurumon
+Rosemon X  Millith Loop
+Rosemon X  Deva
+Rosemon X  Bloomlord
+Rosemon X  Leopardmon
+Rosemon X  Gallantmon
+Rosemon X  Miragegaogamon
+Rosemon X  Magnamon
+Rosemon X  Gargomon
+Rosemon X  Loogamon
+Rosemon X  Red Hybrid
+Rosemon X  Beelzemon
+Rosemon X  Commandramon
+Rosemon X  Imperialdramon
+Rosemon X  Garurumon
+Millith Loop  Deva
+Millith Loop  Bloomlord
+Millith Loop  Leopardmon
+Millith Loop  Gallantmon
+Millith Loop  Miragegaogamon
+Millith Loop  Magnamon
+Millith Loop  Gargomon
+Millith Loop  Loogamon
+Millith Loop  Red Hybrid
+Millith Loop  Beelzemon
+Millith Loop  Commandramon
+Millith Loop  Imperialdramon
+Millith Loop  Garurumon
+Deva  Bloomlord
+Deva  Leopardmon
+Deva  Gallantmon
+Deva  Miragegaogamon
+Deva  Magnamon
+Deva  Gargomon
+Deva  Loogamon
+Deva  Red Hybrid
+Deva  Beelzemon
+Deva  Commandramon
+Deva  Imperialdramon
+Deva  Garurumon
+Bloomlord  Leopardmon
+Bloomlord  Gallantmon
+Bloomlord  Miragegaogamon
+Bloomlord  Magnamon
+Bloomlord  Gargomon
+Bloomlord  Loogamon
+Bloomlord  Red Hybrid
+Bloomlord  Beelzemon
+Bloomlord  Commandramon
+Bloomlord  Imperialdramon
+Bloomlord  Garurumon
+Leopardmon  Gallantmon
+Leopardmon  Miragegaogamon
+Leopardmon  Magnamon
+Leopardmon  Gargomon
+Leopardmon  Loogamon
+Leopardmon  Red Hybrid
+Leopardmon  Beelzemon
+Leopardmon  Commandramon
+Leopardmon  Imperialdramon
+Leopardmon  Garurumon
+Gallantmon  Miragegaogamon
+Gallantmon  Magnamon
+Gallantmon  Gargomon
+Gallantmon  Loogamon
+Gallantmon  Red Hybrid
+Gallantmon  Beelzemon
+Gallantmon  Commandramon
+Gallantmon  Imperialdramon
+Gallantmon  Garurumon
+Miragegaogamon  Magnamon
+Miragegaogamon  Gargomon
+Miragegaogamon  Loogamon
+Miragegaogamon  Red Hybrid
+Miragegaogamon  Beelzemon
+Miragegaogamon  Commandramon
+Miragegaogamon  Imperialdramon
+Miragegaogamon  Garurumon
+Magnamon  Gargomon
+Magnamon  Loogamon
+Magnamon  Red Hybrid
+Magnamon  Beelzemon
+Magnamon  Commandramon
+Magnamon  Imperialdramon
+Magnamon  Garurumon
+Gargomon  Loogamon
+Gargomon  Red Hybrid
+Gargomon  Beelzemon
+Gargomon  Commandramon
+Gargomon  Imperialdramon
+Gargomon  Garurumon
+Loogamon  Red Hybrid
+Loogamon  Beelzemon
+Loogamon  Commandramon
+Loogamon  Imperialdramon
+Loogamon  Garurumon
+Red Hybrid  Beelzemon
+Red Hybrid  Commandramon
+Red Hybrid  Imperialdramon
+Red Hybrid  Garurumon
+Beelzemon  Commandramon
+Beelzemon  Imperialdramon
+Beelzemon  Garurumon
+Commandramon  Imperialdramon
+Commandramon  Garurumon
+Imperialdramon  Garurumon

@@ -1,22 +1,27 @@
-import itertools
+import itertools, random
 
 v_decks = [
-    'Wargreymon',
-    'Shinegreymon',
-    'Numemon',
-    'Alter-S',
-    'Belphemon',
-    'Leviamon',
     'Machinedramon',
     'Galactimon',
-    'Blue Fish',
+    'Numemon',
+    'Atler-S',
+    'Shinegreymon',
+    'Wargreymon',
+    'Belphemon',
+    'Leviamon',
+    'ShogunGekomon',
     'Security Control',
-    'Ruin Mode Turbo',
-    'Rosemon X',
+    'Shinegreymon Ruin Mode',
     'Millith Loop',
-    'Deva',
+    'Alphamon',
+    'Yellow Vaccine',
+    'Marcus Hybrid',
+    'Rosemon X',
     'Bloomlord',
-    'Leopardmon'
+    'Dank Masters',
+    'Blackwargreymon',
+    'RustyLeopard',
+    'GreenYellowSecCon'
 ]
 
 j_decks = [
@@ -25,7 +30,11 @@ j_decks = [
     'Magnamon',
     'Gargomon',
     'Loogamon',
-    'Red Hybrid'
+    'Red Hybrid',
+    'Beelzemon',
+    'Commandramon',
+    'GraceNova',
+    'Beelstarmon',
 ]
 
 m_decks = [
@@ -37,7 +46,18 @@ decks = v_decks + j_decks + m_decks
 
 combinations = list(itertools.combinations(decks, 2))
 
+combos = []
+
 for combo in combinations:
     p1, p2 = combo
 
-    print('{} vs. {}'.format(p1, p2))
+    matchup = '{} vs. {}'.format(p1, p2)
+
+    combos.append(matchup)
+
+# print random matchup
+# print(random.choice(combos))
+
+for combo in combos:
+    print(combo)
+
