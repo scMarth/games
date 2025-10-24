@@ -1,6 +1,29 @@
 The EXP Hall DLC - killing digimon here doesn't give you EXP directly, it gives you items which can then be used to increase EXP for the digimon you use it on
 
+minigames uncleared
+    - sewers
+    - tyrantkabu
+    - paradise colloseum
+    - central sewers?
+
+outer dungeon locations: https://game8.co/games/Digimon-Story-Time-Stranger/archives/556099
+    sewers outer dungeon
+        (got the mastery thing here)
+
+        armadillo
+            drimoge
+                metaltyranno
+            tusk
+                slashange
+
+
+stat farm: https://www.youtube.com/shorts/hojQKKN2v3A
+    apparently 200% scans are the best for load enhancing and boosting stats
+
 GranKuwagamon EXP farming strat: https://www.youtube.com/watch?v=peEqTXhOHTo
+    for this reason alone, it is good to have a Zealous GranKuwaga with 100 talent / bond, or at least prepare for one when you unlock mega digivolutions, and feeding one with load enhancements seems to help the exveemons too
+
+afk EXP farming strat: https://www.youtube.com/watch?v=lY4e_xPeDJY
 
 increasing talent: I am not sure if it's a bug, but if I just keep digivolving and de-digivolving to and from the same 2 digimon e.g. agu > grey > agu > grey > agu > grey etc. it slowly but surely increases the talent....
 
@@ -18,7 +41,11 @@ https://game8.co/games/Digimon-Story-Time-Stranger/archives/556015
     randomly got it from the treasure drop Meruki mon's place at the top of the stairs where Ginryumon is
 
 Personality notes:
+    - chart: https://nightlygamingbinge.com/wp-content/uploads/2025/09/Digimon-Personality-Type-1024x538.webp
     - seems that personality when you're converting is RNG, but more or less any digimon can digivolve into any other digimon, so it's easy to farm scanned digimon and find the right personality
+    - personality skill chart: https://www.reddit.com/r/digimon/comments/1nucyei/digimon_time_stranger_personality_chart/
+    - guide on changing personality: https://www.youtube.com/watch?v=oNwQYC2py_Y
+    
 
 IPM (Zealous)
     IFM Zealous
@@ -41,6 +68,7 @@ Exa (reckless)
 
 Ouryuken
     [x] Alphamon (Friendly)
+        Grademon (friendly)
     Ouryumon (Zealous)
         [x] Hisyaryu (zealous)
             ginryu (zealous)
@@ -57,6 +85,49 @@ Rosemon BM sociable
     Rosemon sociable
         Lillymon sociable
             Togemon / Sunflowmon (sociable)
+
+
+load enhancement farming on paildra seems good early on since he's a free-type and doesn't have to worry about reduced damage from weakness types
+
+
+support digimon with aura skill: https://www.youtube.com/watch?v=GJ3xebmKFRs
+    https://www.grindosaur.com/en/games/digimon-story-time-stranger/personality-skills/fortifying-charge
+        Friendly An amiable heart boosts DEF and ATK growth.
+
+personality skills: https://www.grindosaur.com/en/games/digimon-story-time-stranger/personality-skills
+    brave Vitality Theft	Recovers HP equal to 10% of physical attack skill damage dealt.
+    Overprotective Great Embrace	Overheals to up to 200% of target's Max HP when using recovery skills.
+    Sly Combo Magic	Chance of activating skill again when using a magic attack skill. (The lower the HP, the greater the chance.)
+
+    bug: seems like there is a bug for combo magic + great embrace (overprotective) personality skills - can heal above 100% health, which for some reason puts you at a health range where combo magic always triggers
+        source: https://www.youtube.com/watch?v=rYTKfvKgY68
+
+            also : apparently SPI attachment will prioritize that digimon compared to another who has the same SPI but has no attachments
+
+            great embrace also is good with stout strength, which boosts atk based on user's HP
+
+
+
+exp farming:
+
+    grab the outer dungeon in the gear forest to get the tyrant kabuterimon from it since its lvl60 and his special skill is insane
+
+    with it as is you can then leave south east of the gear forest
+
+    there are 2 lilamon, 1 veggy, 1 kiwi, 1 etemon and 1-2 birdramon
+
+    with it as is you can oneshot the veggy, kiwi and lilamons with the digi attack alone which is insane exp and pretty good food and the etemon can be oneshot with the digiattack if you train attack a bit or you just oneshot it with an aoe in an actual fight.
+
+    but ignoring the birdramons since those are tough to oneshot with it thats ~3,5k exp and 30 veggy+kiwi %, 20% etemon and 40% lilamon (so 60% champ and 60% ultimate) which takes about 25sec per rotation
+
+    im in post game almost about to start my mega+ run and i havent found a better farming spot yet
+
+early DNA farming:
+    https://www.reddit.com/r/digimon/comments/1o1qpuj/time_stranger_scan_farms/
+        If you’re looking to farm up an army of fodder, I’d say it’s better to get a Pat Amon and digivolve it into Godramon, dedigivolve it down to Shoukkomon and dedigivolve that into Angemon and Ankylomon. Then take the angemon up the magnaangemon route up to Godramon and repeat the process. Lets you farm out an army of Ankylomon as a result.
+
+    https://www.grindosaur.com/en/games/digimon-story-time-stranger/digimon/shakkoumon
+        > goldra > shakkou
 
 
 
@@ -141,3 +212,24 @@ Tokomon
         Ankylomon
         Golemon
 
+
+
+gekomon answers:
+https://gamerant.com/digimon-story-time-stranger-gekomon-answers-throne-underworld/
+
+
+
+
+
+
+
+
+select granuwaga
+    space
+    a
+    space
+    space
+    space
+    (delay)
+    space
+    (x)
