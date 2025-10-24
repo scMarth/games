@@ -1,3 +1,15 @@
+/*
+notes: make sure you have the right set-up to do the loop manually (zealous GranKuwaga with appropriate agent talents for reduced digivolution requirements)
+
+to run:
+    - in the digivolution menu, hover the cursor on grankuwaga
+    - move the mouse cursor away (to a second screen) so that it doesn't accidentally change the target and keep the mouse still as it is running
+    - plug in the microcontroller
+    - connect pin 4 to ground
+
+*/ 
+
+
 #include <Keyboard.h>
 #include <time.h>
 
