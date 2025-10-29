@@ -21,6 +21,9 @@ int led = 13;     // L LED
 fastest known timings for evo_delay1, evo_delay2, evo_delay3 respectively: 500, 1000, 0
 
 */
+int iteration_limit = 5;
+int iterations = 0;
+
 int evo_delay1 = 500;
 int evo_delay2 = 1000;
 int evo_delay3 = 0;
@@ -43,7 +46,7 @@ void setup() {
 void loop() {
    digitalWrite(led, !(digitalRead(2)||digitalRead(4)));
 
-   if (digitalRead(2) == HIGH && digitalRead(3) == HIGH && digitalRead(4) == LOW && digitalRead(5) == HIGH){
+   if (digitalRead(2) == HIGH && digitalRead(3) == HIGH && digitalRead(4) == LOW && digitalRead(5) == HIGH && (iterations < iteration_limit)){
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
@@ -259,6 +262,8 @@ void loop() {
       delay(250);
 
       delay(50);
+
+      iterations++;
 
    }
 }
