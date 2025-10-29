@@ -15,6 +15,18 @@ to run:
 
 int led = 13;     // L LED
 
+
+/*
+
+fastest known timings for evo_delay1, evo_delay2, evo_delay3 respectively: 500, 1000, 0
+
+*/
+int evo_delay1 = 500;
+int evo_delay2 = 1000;
+int evo_delay3 = 0;
+
+
+
 void setup() {
    // make pin 2 an input and turn on the
    // pullup resistor so it goes high unless
@@ -58,21 +70,21 @@ void loop() {
       delay(50);
       Keyboard.releaseAll();
 
-      delay(3000);
+      delay(evo_delay1);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(2000);
+      delay(evo_delay2);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(1000);
+      delay(evo_delay3);
 
       Keyboard.press('x'); // press x
       delay(50);
@@ -110,21 +122,21 @@ void loop() {
       delay(50);
       Keyboard.releaseAll();
 
-      delay(3000);
+      delay(evo_delay1);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(2000);
+      delay(evo_delay2);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(1000);
+      delay(evo_delay3);
 
       Keyboard.press('x'); // press x
       delay(50);
@@ -167,21 +179,21 @@ void loop() {
       delay(50);
       Keyboard.releaseAll();
 
-      delay(3000);
+      delay(evo_delay1);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(2000);
+      delay(evo_delay2);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(1000);
+      delay(evo_delay3);
 
       Keyboard.press('x'); // press x
       delay(50);
@@ -225,21 +237,21 @@ void loop() {
       delay(50);
       Keyboard.releaseAll();
 
-      delay(3000);
+      delay(evo_delay1);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(2000);
+      delay(evo_delay2);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
       delay(500);
 
-      delay(1000);
+      delay(evo_delay3);
 
       Keyboard.press('x'); // press x
       delay(50);
