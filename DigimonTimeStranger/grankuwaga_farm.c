@@ -33,252 +33,220 @@ void loop() {
 
    if (digitalRead(2) == HIGH && digitalRead(3) == HIGH && digitalRead(4) == LOW && digitalRead(5) == HIGH){
 
-/*
-select granuwaga
-    space
-    a
-    space
-    space
-    space
-    (delay) maybe 3 seconds in between to be safe?
-    space
-    (x)
+      Keyboard.press(0x20); // press space (working in steam)
+      delay(50);
+      Keyboard.releaseAll();
+      delay(250);
 
 
-    (again with a)
-
-    (again with d > s > s) select okuwaga
-
-    (again with d > s > s) select grankuwaga
-
-    
-*/
+      Keyboard.press('a'); // press a
+      delay(50);
+      Keyboard.releaseAll();
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
-
-
-      Keyboard.press('a'); // press space (working in steam)
       delay(50);
-      Keyboard.releaseAll();
-      delay(500); // wait half a second
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
-
-      Keyboard.press(0x20); // press space (working in steam)
-      delay(50);
-      Keyboard.releaseAll();
-      delay(500); // wait half a second
 
       delay(3000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(2000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(1000);
 
-      Keyboard.press('x'); // press space (working in steam)
+      Keyboard.press('x'); // press x
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
-
-      delay(1000);
-
+      delay(250);
 
       /* Evo 2 */
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(250);
 
 
-      Keyboard.press('a'); // press space (working in steam)
+      Keyboard.press('a'); // press a
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
 
       delay(3000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(2000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(1000);
 
-      Keyboard.press('x'); // press space (working in steam)
+      Keyboard.press('x'); // press x
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
-
-      delay(1000);
+      delay(250);
 
       /* Evo 3 */
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(250);
 
 
-      Keyboard.press('d'); // press space (working in steam)
+      Keyboard.press('d'); // press d
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
-      Keyboard.press('s'); // press space (working in steam)
+      Keyboard.press('s'); // press s
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
-      Keyboard.press('s'); // press space (working in steam)
+      Keyboard.press('s'); // press s
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
 
       delay(3000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(2000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(1000);
 
-      Keyboard.press('x'); // press space (working in steam)
+      Keyboard.press('x'); // press x
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
-
-      delay(1000);
+      delay(250);
 
 
       /* Evo 4 */
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(250);
 
 
-      Keyboard.press('d'); // press space (working in steam)
+      Keyboard.press('d'); // press d
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
-      Keyboard.press('s'); // press space (working in steam)
+      Keyboard.press('s'); // press s
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
-      Keyboard.press('s'); // press space (working in steam)
+      Keyboard.press('s'); // press s
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(50);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
 
       delay(3000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(2000);
 
       Keyboard.press(0x20); // press space (working in steam)
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(500);
 
       delay(1000);
 
-      Keyboard.press('x'); // press space (working in steam)
+      Keyboard.press('x'); // press x
       delay(50);
       Keyboard.releaseAll();
-      delay(500); // wait half a second
+      delay(250);
 
-      delay(1000);
+      delay(50);
 
    }
 }
