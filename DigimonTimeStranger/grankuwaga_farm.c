@@ -43,6 +43,15 @@ void setup() {
 void loop() {
    digitalWrite(led, !(digitalRead(2)||digitalRead(4)));
 
+   // connect pin-5 to ground for space bar spam
+   if (digitalRead(2) == HIGH && digitalRead(3) == HIGH && digitalRead(4) == HIGH && digitalRead(5) == LOW){
+      Keyboard.press(0x20); // press space (working in steam)
+      delay(50);
+      Keyboard.releaseAll();
+      delay(50);
+   }
+
+   // connect pin-4 to ground for kuwaga farm
    if (digitalRead(2) == HIGH && digitalRead(3) == HIGH && digitalRead(4) == LOW && digitalRead(5) == HIGH){
 
       Keyboard.press(0x20); // press space (working in steam)
